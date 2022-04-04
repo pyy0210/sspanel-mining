@@ -18,8 +18,4 @@
 
 - :world_map: [开源计划](https://github.com/QIN2DIM/sspanel-mining/blob/main/docs/subs/开源计划.md)
 
-## :email: 联系我们
 
-> 本项目由海南大学机器人与人工智能协会数据挖掘小组（`A-RAI.DM`）提供维护
-
-- [**Email**](mailto:HainanU_arai@163.com?subject=CampusDailyAutoSign-ISSUE) **||** [**Home**](https://a-rai.github.io/) **||** [**TG**](https://t.me/joinchat/HlB9SQJubb5VmNU5)
