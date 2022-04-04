@@ -12,10 +12,10 @@
 
 - :gear: [技术文档](https://github.com/QIN2DIM/sspanel-mining/blob/main/docs/subs/技术文档.md)
 
-- :small_red_triangle: [注意事项](https://github.com/QIN2DIM/sspanel-mining/blob/main/docs/subs/注意事项.md)
+- :small_red_triangle: [注意事项](https://github.com/adm1nSQL/sspanel-mining/blob/main/docs/subs/注意事项.md)
 
-- :loudspeaker: [更新日志](https://github.com/QIN2DIM/sspanel-mining/blob/main/docs/subs/更新日志.md)
+- :loudspeaker: [更新日志](https://github.com/adm1nSQL/sspanel-mining/blob/main/docs/subs/更新日志.md)
 
-- :world_map: [开源计划](https://github.com/QIN2DIM/sspanel-mining/blob/main/docs/subs/开源计划.md)
+- :world_map: [开源计划](https://github.com/adm1nSQL/sspanel-mining/blob/main/docs/subs/开源计划.md)
 
 
