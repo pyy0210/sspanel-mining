@@ -4,9 +4,9 @@
 
 ## :airplane:快速上手
 
-- 访客：可在 [运行缓存](https://github.com/adm1nSQL/sspanel-mining/tree/main/src/database/sspanel_hosts/classifier) 中阅览分类结果，可通过 [技术文档](https://github.com/QIN2DIM/sspanel-mining/blob/main/docs/subs/技术文档.md) 查看分类标准与解析。
+- 访客：可在 [运行缓存](https://github.com/adm1nSQL/sspanel-mining/tree/main/src/database/sspanel_hosts/classifier) 中阅览分类结果，可通过 [技术文档](https://github.com/adm1nSQL/sspanel-mining/blob/main/docs/subs/技术文档.md) 查看分类标准与解析。
   
-- 玩家：Fork 项目，根据 [技术文档](https://github.com/QIN2DIM/sspanel-mining/blob/main/docs/subs/技术文档.md) 合理配置 `config.py` 后编译项目。
+- 玩家：Fork 项目，根据 [技术文档](https://github.com/adm1nSQL/sspanel-mining/blob/main/docs/subs/技术文档.md) 合理配置 `config.py` 后编译项目。
 
 ## :ocean: 网上冲浪
 
