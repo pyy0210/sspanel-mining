@@ -10,7 +10,7 @@
 
 ## :ocean: 网上冲浪
 
-- :gear: [技术文档](https://github.com/QIN2DIM/sspanel-mining/blob/main/docs/subs/技术文档.md)
+- :gear: [技术文档](https://github.com/adm1nSQL/sspanel-mining/blob/main/docs/subs/技术文档.md)
 
 - :small_red_triangle: [注意事项](https://github.com/adm1nSQL/sspanel-mining/blob/main/docs/subs/注意事项.md)
 
